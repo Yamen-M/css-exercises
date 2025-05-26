@@ -1,0 +1,22 @@
+.Class1{
+    background-color: rgb(255, 0, 212);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;    
+    color:black;
+}
+
+.Font24{
+    font-size: 24px;    
+}
+
+#ID1{
+    background-color: rgb(129, 247, 129);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+}
+
+#ID2{
+    color: blue;
+    font-size: 36px;    
+    font-family: 'Times New Roman', Times, serif;
+}
