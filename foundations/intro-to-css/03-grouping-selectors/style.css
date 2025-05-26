@@ -1,0 +1,14 @@
+.C2,
+.C1{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.C1{
+    background-color: black;
+    color: white;
+}
+
+.C2{
+    background-color: yellow;
+}
